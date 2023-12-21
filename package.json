@@ -4,7 +4,7 @@
   "description": "The container component for Graupl.",
   "main": "scss/container.scss",
   "scripts": {
-    "build": "sass scss/container.scss css/container.css"
+    "build": "sass scss:css"
   },
   "repository": {
     "type": "git",
