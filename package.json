@@ -1,0 +1,28 @@
+{
+  "name": "@graupl/container",
+  "version": "1.0.0",
+  "description": "The container component for Graupl.",
+  "main": "scss/container.scss",
+  "scripts": {
+    "build": "sass scss/container.scss css/container.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Graupl/container.git"
+  },
+  "keywords": [
+    "graupl"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Graupl/container/issues"
+  },
+  "homepage": "https://github.com/Graupl/container#readme",
+  "dependencies": {
+    "@graupl/base": "github:Graupl/base"
+  },
+  "devDependencies": {
+    "sass": "^1.69.5"
+  }
+}
